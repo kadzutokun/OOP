@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\ооп\aidar\aidar\bin\Debug\aidar.exe.config
+C:\Users\student\Desktop\ооп\aidar\aidar\bin\Debug\aidar.exe
+C:\Users\student\Desktop\ооп\aidar\aidar\bin\Debug\aidar.pdb
+C:\Users\student\Desktop\ооп\aidar\aidar\obj\Debug\aidar.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ооп\aidar\aidar\obj\Debug\aidar.exe
+C:\Users\student\Desktop\ооп\aidar\aidar\obj\Debug\aidar.pdb
