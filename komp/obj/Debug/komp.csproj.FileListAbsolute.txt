@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\oop\komp\komp\bin\Debug\komp.exe.config
+C:\Users\student\Desktop\oop\komp\komp\bin\Debug\komp.exe
+C:\Users\student\Desktop\oop\komp\komp\bin\Debug\komp.pdb
+C:\Users\student\Desktop\oop\komp\komp\obj\Debug\komp.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\oop\komp\komp\obj\Debug\komp.exe
+C:\Users\student\Desktop\oop\komp\komp\obj\Debug\komp.pdb
